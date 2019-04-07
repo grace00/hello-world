@@ -1,2 +1,2 @@
 # hello-world
-This is a repository created for the Hello World Git guide.
+I'm a flower who eats KIND bars and melts in the sun.
